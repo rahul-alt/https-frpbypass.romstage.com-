@@ -3,7 +3,7 @@ https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://frpbyp
 
 Open Google Chrome
 
-
+https://shorturl.at/jqyR0
 
 Open Settings
 
