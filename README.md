@@ -7,3 +7,5 @@ Open Google Chrome
 
 Open Settings
 
+Open Set Lock Screen
+
